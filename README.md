@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Michael! I recently graduated from the University of Minnesota with a degree in Computer Science. I currently am looking for full-time job opportunities that will help me bring my skills to a professional environment! I currently am building my personal website built on React!
+- 👋 Hi, I’m Michael! I recently graduated from the University of Minnesota with a degree in Computer Science. I currently am looking for full-time job opportunities that will help me bring my skills to a professional environment!
